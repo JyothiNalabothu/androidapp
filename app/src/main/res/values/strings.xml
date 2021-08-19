@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Android app</string>
+    <string name="app_name">charity</string>
+    <string name="help_needs">Help needs</string>
 </resources>

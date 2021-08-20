@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">charity</string>
     <string name="help_needs">Help needs</string>
+    <string name="sign_in">Sign In</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="sign_up">sign up</string>
+    <string name="or_create_new_account">or Create new Account</string>
 </resources>

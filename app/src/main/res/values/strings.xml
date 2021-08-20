@@ -6,4 +6,9 @@
     <string name="enter_password">Enter Password</string>
     <string name="sign_up">sign up</string>
     <string name="or_create_new_account">or Create new Account</string>
+    <string name="view_on_map">View on Map</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+    <string name="logout">logout</string>
+    <string name="title_activity_maps">Map</string>
 </resources>

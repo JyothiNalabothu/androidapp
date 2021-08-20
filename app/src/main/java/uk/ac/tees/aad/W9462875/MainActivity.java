@@ -63,7 +63,7 @@ public class MainActivity extends AppCompatActivity {
         view.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
-                Toast.makeText(getApplicationContext(),dataList.get(position).getName(),Toast.LENGTH_LONG).show();
+               
 
                 SharedPreferences sharedPref = getSharedPreferences("selectedCharity",Context.MODE_PRIVATE);
                 SharedPreferences.Editor editor = sharedPref.edit();

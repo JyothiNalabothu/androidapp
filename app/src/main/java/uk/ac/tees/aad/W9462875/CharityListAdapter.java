@@ -38,6 +38,8 @@ public class CharityListAdapter extends ArrayAdapter<Charity> {
         ImageView imageView = convertView.findViewById(R.id.imagelogo);
         TextView title = convertView.findViewById(R.id.title);
         TextView description = convertView.findViewById(R.id.description);
+        TextView location = convertView.findViewById(R.id.locationMa);
+        location.setText(user.getAddress());
 
 
         title.setText(user.getName());
